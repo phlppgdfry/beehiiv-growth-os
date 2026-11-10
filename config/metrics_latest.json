@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-11-10T19:35:15.032376+00:00",
+  "publication": {
+    "id": "pub_1d6adc05-2c3c-41ab-ab8e-08a535ad5ad1",
+    "name": "Kippie's Newsletter",
+    "referral_code": null,
+    "referral_enabled": true
+  },
+  "metrics": {
+    "total_subscribers": 1,
+    "total_posts": 2,
+    "custom_fields_count": 8,
+    "webhooks_count": 1
+  },
+  "posts": [
+    {
+      "id": "post_e2c36be4-0931-4232-a586-0a1ccbf392fc",
+      "title": "The Digital Commerce OS: How to Scale Digital Products on Etsy (Issue #1)",
+      "status": "confirmed",
+      "web_url": "https://kippies-newsletter.beehiiv.com/p/new-post",
+      "publish_date": 1794335184
+    },
+    {
+      "id": "post_ec134724-b540-40cd-a19f-d7fdef12405d",
+      "title": "The Reputation Signal #01: The Google Review Trap (Policy 7400114 Fix)",
+      "status": "confirmed",
+      "web_url": "https://kippies-newsletter.beehiiv.com/p/new-post-cb51",
+      "publish_date": 1794385664
+    }
+  ],
+  "webhooks": [
+    {
+      "id": "ep_3Lvck7XtRw4gXDFb7cRvGdE98ow",
+      "url": "https://reviewell.com/api/webhooks/beehiiv",
+      "event_types": [
+        "post.sent",
+        "subscription.created"
+      ],
+      "status": null
+    }
+  ]
+}
